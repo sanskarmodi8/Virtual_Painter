@@ -4,7 +4,7 @@
 
 The Virtual Painter is a computer vision project that allows users to create digital art by using their Right hand gestures in front of a camera. The project utilizes the MediaPipe library for hand tracking and OpenCV for image processing. Users can draw on a virtual canvas and switch between different drawing tools and colors using specific hand gestures.
 
-![resultimg](result.png)
+![resultimg](https://github.com/sanskarmodi8/Virtual_Painter/blob/main/result.png)
 
 ## Features:
 
